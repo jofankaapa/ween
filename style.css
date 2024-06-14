@@ -1,0 +1,196 @@
+.body{
+    margin: 0;
+    padding: 0;
+    overflow-x :hidden;
+    z-index: -90;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    font-family: 'Inclusive Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+@font-face {
+    font-family: 'stray_robotalkregular';
+    src: url('stray_robotalk_regular-webfont.woff2') format('woff2'),
+         url('stray_robotalk_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.satu h2{
+    position: absolute;
+    text-align: center;
+    font-size: 48px;
+    top: 440px;
+    right: 0;
+    left: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+}
+
+.satu p{
+    position: absolute;
+    text-align: center;
+    font-size: 24px;
+    top: 570px;
+    right: 0;
+    left: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+}
+
+.satu img{
+    margin: 0;
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.dua{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.dua p{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.tiga{
+    width: 100%;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+}
+
+.tiga h2{
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.tiga p{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px;
+    text-align: justify;
+    font-family: Consolas,"courier new";
+    font-weight: 400;
+}
+
+.empat p{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    font-family: Consolas,"courier new";
+    font-size: 16px;
+}
+
+/*-------------------------------------*/
+.empats img{
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+.empats p{
+    padding-left: 40px;
+    position: relative;
+    display: flex;
+    font-family: 'stray_robotalkregular';
+    font-size: 46px;
+    color: #fff;
+    text-align: right;
+    top: -65px;
+}
+/*-------------------------------------*/
+.empat2 img{
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+.empat2 p{
+    padding-left: 210px;
+    padding-right: 30px;
+    position: relative;
+    display: flex;
+    font-family: 'stray_robotalkregular';
+    font-size: 48px;
+    color: #fff;
+    text-align: right;
+    top: -65px;
+}
+/*-------------------------------------*/
+.empat3 p{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    font-family: Consolas,"courier new";
+    font-size: 16px;
+}
+/*-------------------------------------*/
+.empat4 img{
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100%;
+    height: auto;
+    align-items: center;
+
+}
+.empat4 p{
+    padding-left: 270px;
+    padding-right: 30px;
+    position: relative;
+    display: flex;
+    font-family: 'stray_robotalkregular';
+    font-size: 72px;
+    color: #fff;
+    text-align: right;
+    top: -95px;
+}
+/*-------------------------------------*/
+.empat5 p{
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    font-family: Consolas,"courier new";
+    font-size: 16px;
+}
+
+/*-------------------------------------*/
+.lima p{
+    font-family: 'stray_robotalkregular';
+    font-size: 52px;
+    padding-left: 20px;
+}
+
+
+.enam h2{
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.enam p{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
